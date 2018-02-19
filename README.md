@@ -1,4 +1,4 @@
-#Gravity Forms populate specific future dates into dropdown dynamically 
+Gravity Forms populate specific future dates into dropdown dynamically 
 
 Script to populate future dates dynamically in a dropdown starting with an array of specific dates (entered manually or pulled from DB)
 
