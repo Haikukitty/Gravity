@@ -3,7 +3,7 @@
 
 
 //Gravity Forms function to take a list of specific dates entered as text or pulled from a database 
-// and only display in dropdown dates which remain in the future
+// and dynamically populate Gravity Forms dropdown with only dates which remain in the future
 
 
 // This example is for a dropdown field with classname 'ups'
